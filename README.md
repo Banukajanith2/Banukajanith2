@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="left">My name is Banuka Janith 👋🏻<br>I'm a Web Developer and a Software Engineer 🧑🏻‍💻</h1>
+<h2 align="left">My name is Banuka Janith 👋🏻<br>I'm a Web Developer and a Software Engineer 🧑🏻‍💻</h2>
 
 ###
 
