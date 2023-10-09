@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="20" src="https://media.tenor.com/NqKNFHSmbssAAAAi/discord-loading-dots-discord-loading.gif"  />
+  <img height="150" src="https://i.ibb.co/CsssDHg/giphy-2.gif"  />
 </div>
 
 ###
