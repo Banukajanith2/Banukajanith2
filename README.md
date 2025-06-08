@@ -33,6 +33,3 @@
 ###
 
 <h3 align="center">I'm a Software Engineering & Web Designing student. 🧑🏻‍💻 <br>Who loves learning new things and building digital products. 💡</h3>
-
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=BanukaJanith2.BanukaJanith2)
-
