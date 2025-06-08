@@ -33,3 +33,5 @@
 ###
 
 <h3 align="center">I'm a Software Engineering & Web Designing student. 🧑🏻‍💻 <br>Who loves learning new things and building digital products. 💡</h3>
+
+![Profile Views](https://komarev.com/ghpvc/?username=BanukaJanith2&color=blue)
