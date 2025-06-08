@@ -21,8 +21,8 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
   <img width="15" />
-  <img src="https://static.cdnlogo.com/logos/t/58/tailwind-css.svg" height="30"/>
-  <img width="10" />
+  <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss.com/master/public/favicons/apple-touch-icon.png" height="30" alt="Tailwind CSS" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
