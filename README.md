@@ -21,7 +21,7 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/tailwindcss.svg" height="30" alt="tailwind css logo" style="filter: invert(51%) sepia(100%) saturate(387%) hue-rotate(136deg) brightness(95%) contrast(85%);" />
+  <img src="https://static.cdnlogo.com/logos/t/58/tailwind-css.svg" height="30" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
   <img width="15" />
